@@ -1,0 +1,14 @@
+# Evitar travas no Windows (nomes reservados)
+nul
+NUL
+
+# Python cache / venv
+__pycache__/
+*.pyc
+venv/
+
+# Config local
+.env
+
+# Dados grandes
+data/*.csv
